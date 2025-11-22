@@ -1,0 +1,21 @@
+# PDFs
+*.pdf
+
+# Images
+*.jpg
+*.png
+*.jpeg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+biology questions
+chemistry questions
+physics questions
+
+# Other
+STUDENTLOGIN
+SETUP_GUIDE.txt
